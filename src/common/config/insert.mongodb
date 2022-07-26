@@ -19,7 +19,7 @@ db.getCollection(collection)
                 "security": false,
                 "auto_accept": true,
                 "admins": [
-                    111111
+                    1025207065
                 ]
             }
         }, 
